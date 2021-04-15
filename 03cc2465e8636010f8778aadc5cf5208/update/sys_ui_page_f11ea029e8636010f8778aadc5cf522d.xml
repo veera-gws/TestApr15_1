@@ -7,7 +7,7 @@
         <endpoint>x_snc_testapr15_1_Test Page1.do</endpoint>
         <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-
+<!-- testafdsfdf -->
 </j:jelly>]]></html>
         <name>Test Page1</name>
         <processing_script/>
@@ -15,13 +15,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-04-15 22:12:56</sys_created_on>
         <sys_id>f11ea029e8636010f8778aadc5cf522d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test Page1</sys_name>
         <sys_package display_value="TestApr15_1" source="x_snc_testapr15_1">03cc2465e8636010f8778aadc5cf5208</sys_package>
         <sys_policy/>
         <sys_scope display_value="TestApr15_1">03cc2465e8636010f8778aadc5cf5208</sys_scope>
         <sys_update_name>sys_ui_page_f11ea029e8636010f8778aadc5cf522d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-15 22:12:56</sys_updated_on>
+        <sys_updated_on>2021-04-15 22:16:54</sys_updated_on>
     </sys_ui_page>
 </record_update>
